@@ -1,0 +1,33 @@
+from turtle import *
+exitonclick
+color("red")
+forward(200)
+left(90)
+forward(200)
+left(90)
+forward(200)
+left(90)
+forward(200)
+left(90)
+goto(70, 0)
+
+color("blue")
+left(90)
+forward(120)
+right(90)
+forward(60)
+right(90)
+forward(120)
+
+color("red")
+left(90)
+forward(70)
+left(90)
+forward(200)
+
+color("yellow")
+left(45)
+forward(150)
+goto(0, 200)
+color("yellow")
+goto(200, 200)
